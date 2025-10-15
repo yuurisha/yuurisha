@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 Im Yourisha
+![image](https://github.com/user-attachments/assets/5ac6b9b1-1d92-448e-a160-870971dae20c)
 
 <!--
 **yuurisha/yuurisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
